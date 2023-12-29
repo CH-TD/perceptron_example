@@ -1,2 +1,2 @@
 # perceptron_example
-thie repository contains arduino code to represent perseptron for distance classification using ultrasonic sensor
+this repository contains arduino code to represent perceptron for distance classification using ultrasonic sensor
